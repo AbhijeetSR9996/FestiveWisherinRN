@@ -1,4 +1,4 @@
-//FESTIVEWISHER CODE ALONG WITH IMAGEPICKER IN RN
+//FESTIVEWISHER CODE ALONG WITH TEXTINPUT(OF NAME) IN RN
 import React, {useRef, useEffect, useState} from 'react';
 import {
   View,
